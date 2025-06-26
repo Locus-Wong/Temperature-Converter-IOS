@@ -1,4 +1,4 @@
-# Temperature-Converter-IOS
+# Temperature Converter
 This is an iOS app for converting between Celsius, Fahrenheit, and Kelvin.
 <br/>
 <img width="373" alt="image" src="https://github.com/user-attachments/assets/74b854a2-d87c-41c8-9552-336dece08685" />
